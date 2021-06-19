@@ -1,0 +1,29 @@
+body {
+  font-family: Cabin, sans-serif;
+}
+
+.nav a {
+  color: #083D77;
+}
+
+.nav-tabs .nav-link {
+  border: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.bg-order-form {
+  position: relative;
+  border-radius: 10px;
+  top: 50px;
+  padding: 16px;
+  margin: auto;
+  background: rgba(255,255,255,0.69);
+}
+
+.device {
+  margin: auto;
+  width: auto;
+  height: 400px;
+}
+
